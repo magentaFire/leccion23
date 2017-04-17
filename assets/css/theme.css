@@ -4,10 +4,10 @@ body {
 
 span {
   display: block;
-  padding-bottom: 40px;
-  padding-left: 10px;
-  padding-top: 10px;
+  padding: 10px 10px 40px;
   font-size: 20px;
+  margin: 20px;
+  width: 15%;
 }
 
 .amarillo {
@@ -16,7 +16,6 @@ span {
 
 .red {
   background-color: red;
-  border: 1px solid black;
 }
 
 body :nth-child(3) {
